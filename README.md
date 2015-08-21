@@ -1,2 +1,2 @@
 # MarketingSite
-Marketing site, home page.
+Marketing site, index, home page.
